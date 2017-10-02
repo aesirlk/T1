@@ -14,7 +14,7 @@ int main()
 
     printf("\t seja bem vindo \n");
     printf("selecione sua equacao:");
-    printf("1 - ");
+    printf("1 - ")
 
 
     return 0;

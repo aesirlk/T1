@@ -1,6 +1,13 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
+
+//*************************************
+//*   T1 - Calculo -                  *
+//*   Lucas Valim Magalhães, RA 3023  *
+//*   Maicon Tagliaferro, RA 3027     *
+//*************************************
+
 int main()
 {
     int k;

@@ -31,7 +31,7 @@ int main(int argc, char *argv[])
     printf("Menu das Funcoes a serem Derivadas:\n");
 
     printf("\n");  // pular linha
-    printf("1. Raiz quadrada\n"); //Completar o mennu com todas as funções
+    printf("1. Raiz quadrada\n"); //Completar o menu com todas as funções
     printf("2. Cubica\n");
     printf("3. exp(x)\n");
     printf("4. Logaritmo de x\n");
